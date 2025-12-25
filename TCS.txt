@@ -1,0 +1,19 @@
+if require L2 support can check with them!
+
+DMZ means physical server
+
+In place upgrade run same version of upgrade suppose server in 2019 then copy that 2019 file on server and
+upgrade then can run 2022 upgrade!
+
+249 vCenter
+273 Datacenter
+734 clusters
+4085 exsi servers
+15445 Datastores
+
+14 days cooling perios 2 week for last decommission and server get remove
+
+
+
+
+ 
