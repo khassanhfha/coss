@@ -12,6 +12,7 @@ upgrade then can run 2022 upgrade!
 15445 Datastores
 
 14 days cooling perios 2 week for last decommission and server get remove
+Project
 
 
 
