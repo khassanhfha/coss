@@ -1,2 +1,4 @@
 VMware and Windows
 AWS DevOps Course
+Administrator
+Course under training
